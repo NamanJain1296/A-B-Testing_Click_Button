@@ -2,7 +2,7 @@
 This repository contains a Python script designed to conduct a simulated A/B test, a widely used method in statistics and data science for comparing two versions of a single variable. This project serves as a practical example to demonstrate the process of A/B testing, providing an educational case study for data analysis and hypothesis testing.
 ![image](https://github.com/NamanJain1296/A-B-Testing_Click_Button/assets/113998224/3905e268-1e92-44fa-aa29-207fb4dffb8c)
 <br/>
-#1. Simulating Click Data for A/B Testing
+# 1. Simulating Click Data for A/B Testing
 ## Objective:
 To simulate click data for an experimental group (exp) and a control group (con).
 
