@@ -37,6 +37,7 @@ Statistically analyzes the results to assess if the new design significantly imp
 # Conclusion
 ## Findings
 The script provides statistical evidence on whether the new design (experimental group) leads to a higher click rate compared to the control group.
+
 ![image](https://github.com/NamanJain1296/A-B-Testing_Click_Button/assets/113998224/363ec577-0052-4a34-a91d-7c2024637e40)
 <br/>
 # Decision Making
