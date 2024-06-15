@@ -13,6 +13,7 @@ To simulate click data for an experimental group (exp) and a control group (con)
 - Merges the data into a single DataFrame df for analysis.
   ![image](https://github.com/NamanJain1296/A-B-Testing_Click_Button/assets/113998224/16033806-b6e7-471a-89ef-b8050d862f63)
 <br/>
+
 # 2. Statistical Significance in A/B Testing
 ## Objective
 To determine if the difference in click rates between the experimental and control groups is statistically significant.
