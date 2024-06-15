@@ -10,7 +10,7 @@ To simulate click data for an experimental group (exp) and a control group (con)
 - Utilizes numpy and pandas libraries to generate random binary click data (1 = click, 0 = no click).
 - Creates two datasets: df_exp for the experimental group and df_con for the control group.
 - Each group has 1000 samples with different click probabilities (0.5 for exp and 0.2 for con).
-- Merges the data into a single DataFrame df_ab_test for analysis.
+- Merges the data into a single DataFrame df for analysis.
   ![image](https://github.com/NamanJain1296/A-B-Testing_Click_Button/assets/113998224/16033806-b6e7-471a-89ef-b8050d862f63)
 <br/>
 # 2. Statistical Significance in A/B Testing
